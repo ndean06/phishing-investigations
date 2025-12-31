@@ -26,3 +26,8 @@ This assessment is based on available email content and WHOIS data. Full email h
 - Perform email trace and scoping 
 - Add IOCs to tracking
 - Monitor for follow-up attempts
+
+## Takeaways
+- Lookalike domains and WHOIS data can confirm phishing even without a payload.
+- Pretexting emails often precede later malicious activity.
+- Infrastructure analysis is key when header data is unavailable.
