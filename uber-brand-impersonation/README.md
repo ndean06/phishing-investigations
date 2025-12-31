@@ -1,4 +1,4 @@
-# Phishing Investigation – Uber Brand Impersonation
+# Phishing Investigation  Uber Brand Impersonation
 
 ## Summary
 - Investigated a phishing email impersonating Uber partnerships
